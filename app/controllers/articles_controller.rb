@@ -1,4 +1,4 @@
-class NearController < ApplicationController
+class ArticlesController < ApplicationController
   def index
   end
 end
